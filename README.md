@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oliveira-szy&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=23232d" alt="Marcus Gabriel Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=23232d" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-szy&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=23232d" />
 </div>
           
 <div  align="center"> 
