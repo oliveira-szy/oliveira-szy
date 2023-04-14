@@ -29,4 +29,4 @@
 <a href="https://www.linkedin.com/in/marcus-gabriel-o-38538b246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23696969?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-![Snake animation](https://github.com/oliveira-szy/oliveira-szy/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/oliveira-szy/Formandodev/blob/output/github-contribution-grid-snake.svg)
