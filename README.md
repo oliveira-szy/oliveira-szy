@@ -25,4 +25,8 @@
 <a href="https://www.linkedin.com/in/marcus-gabriel-o-38538b246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23696969?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+<br>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oliveira-szy&bg_color=23232d&color=fff&line=fff&point=696969&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
